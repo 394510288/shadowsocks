@@ -8,4 +8,4 @@
 - 请收藏本链接：<https://github.com/tmxq56/shadowsocks/blob/bbacloud/bbacloud.md>
 ### 关于
 - 有任何疑问，请联系我们。
-- Email：support@bbacloud.com
+- Email：bbacloud@ssmgr.com
