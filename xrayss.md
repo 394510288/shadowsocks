@@ -10,4 +10,4 @@
 - **请收藏本链接**：<https://github.com/tmxq56/shadowsocks/blob/xrayss/xrayss.md>
 ### 关于
 - 有任何疑问，请联系我们。
-- Email：support@xrayss.com
+- Email：xrayss@ssmgr.com
