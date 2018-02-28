@@ -8,4 +8,4 @@
 - 请收藏本链接：<https://github.com/tmxq56/shadowsocks/blob/tizivon/tizivon.md>
 ### 关于
 - 有任何疑问，请联系我们。
-- Email：support@tizivon.com
+- Email：tizivon@ssmgr.com
