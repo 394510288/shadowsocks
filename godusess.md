@@ -1,7 +1,7 @@
 ### 佛跳墙 / GodUseSS - 呐，做人呢，最重要的是开心。
 ### 最新墙内地址：
-- 网址：[www.goduse11.com](http://www.goduse11.com)
-- 后台：[user.goduse11.com](http://user.goduse11.com)
+- 网址：[www.goduse44.com](http://www.goduse44.com)
+- 后台：[user.goduse44.com](http://user.goduse44.com)
 ### 说明
 - 永久域名：[godusess.com](http://godusess.com)，需要开启“系统代理模式”至“全局模式”访问。**（推荐）**
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
