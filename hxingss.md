@@ -1,13 +1,11 @@
 ### 红杏SS / HxingSS - 春色满园关不住，一枝红杏出墙来！
 ### 最新墙内地址：
-- 网址1：[www.hxing44.com](http://www.hxing44.com)
-- 后台1：[user.hxing44.com](http://user.hxing44.com)
-- 网址2：[www.hxing11.top](http://www.hxing11.top)
-- 后台2：[user.hxing11.top](http://user.hxing11.top)
-| 备用地址 | 网址 |  后台  |
-| --------   | -----:  | :----:  |
-| 备用1   | [www.hxing44.com](http://www.hxing44.com) | [user.hxing44.com](http://user.hxing44.com) |
-| 备用2   | [www.hxing11.top](http://www.hxing11.top) | [user.hxing11.top](http://user.hxing11.top) |
+
+| 备用地址 | 网址 | 后台 |
+| --------   | :-----:  | :----:  |
+| 备用1 | [www.hxing44.com](http://www.hxing44.com) | [user.hxing44.com](http://user.hxing44.com) |
+| 备用2 | [www.hxing11.top](http://www.hxing11.top) | [user.hxing11.top](http://user.hxing11.top) |
+
 ### 说明
 - 永久域名：[hxingss.com](http://hxingss.com)，需要开启“系统代理模式”至“全局模式”访问。**（推荐）**
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
