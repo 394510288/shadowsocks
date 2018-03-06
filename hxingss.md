@@ -2,7 +2,7 @@
 ### 最新墙内地址：
 
 | 备用地址 | 网址 | 后台 |
-| --------   | :-----:  | :----:  |
+| :--------: | :-----: | :----: |
 | 备用1 | [www.hxing44.com](http://www.hxing44.com) | [user.hxing44.com](http://user.hxing44.com) |
 | 备用2 | [www.hxing11.top](http://www.hxing11.top) | [user.hxing11.top](http://user.hxing11.top) |
 
