@@ -1,7 +1,11 @@
 ### JmpSS Team
 ### 最新墙内地址：
-- 网址：[www.jmp11.com](http://www.jmp11.com/)
-- 后台：[manager.jmp11.com](http://manager.jmp11.com/)
+
+| 墙内地址 | 首页 | 后台 |
+| :--------: | :-----: | :----: |
+| 备用1 | [www.jmp22.com](http://www.jmp22.com) | [manager.jmp22.com](http://manager.jmp22.com) |
+| 备用2 | [www.jmpss.top](http://www.jmpss.top) | [manager.jmpss.top](http://manager.jmpss.top) |
+
 ### 说明
 - 永久域名：[jmpss.com](http://jmpss.com/)，需要开启“系统代理模式”至“全局模式”访问。**（推荐）**
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
