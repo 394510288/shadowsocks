@@ -1,7 +1,11 @@
 ### V7speed Team
 ### 最新墙内地址：
-- 网址：[www.v7sp55d.com](http://www.v7sp55d.com/)
-- 后台：[manager.v7sp55d.com](http://manager.v7sp55d.com/)
+
+| 墙内地址 | 首页 | 后台 |
+| :--------: | :-----: | :----: |
+| 备用1 | [www.v7sp11d.com](http://www.v7sp11d.com) | [manager.v7sp11d.com](http://manager.v7sp11d.com) |
+| 备用2 | [www.v7speed.top](http://www.v7speed.top) | [manager.v7speed.top](http://manager.v7speed.top) |
+
 ### 说明
 - 永久域名：[v7speed.com](http://v7speed.com/)，需要开启“系统代理模式”至“全局模式”访问。**（推荐）**
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
