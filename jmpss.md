@@ -3,7 +3,7 @@
 
 | 墙内地址 | 首页 | 后台 |
 | :--------: | :-----: | :----: |
-| 备用1 | [www.jmp22.com](http://www.jmp22.com) | [manager.jmp22.com](http://manager.jmp22.com) |
+| 备用1 | [www.jmp11.top](http://www.jmp11.top) | [manager.jmp11.top](http://manager.jmp11.top) |
 | 备用2 | [www.jmpss.top](http://www.jmpss.top) | [manager.jmpss.top](http://manager.jmpss.top) |
 
 ### 说明
