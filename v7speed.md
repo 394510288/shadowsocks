@@ -3,7 +3,7 @@
 
 | 墙内地址 | 首页 | 后台 |
 | :--------: | :-----: | :----: |
-| 备用1 | [www.v7sp11d.top](http://www.v7sp11d.top) | [manager.v7sp11d.top](http://manager.v7sp11d.top) |
+| 备用1 | [www.v7sp22d.top](http://www.v7sp22d.top) | [manager.v7sp22d.top](http://manager.v7sp22d.top) |
 | 备用2 | [www.v7speed.top](http://www.v7speed.top) | [manager.v7speed.top](http://manager.v7speed.top) |
 
 ### 说明
