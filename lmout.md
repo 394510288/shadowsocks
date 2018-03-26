@@ -1,7 +1,11 @@
 ### 乐米奥 / LMout - Let me out!
 ### 最新墙内地址：
-- 网址：[www.lmout2.com](http://www.lmout2.com)
-- 后台：[user.lmout2.com](http://user.lmout2.com)
+
+| 墙内地址 | 首页 | 后台 |
+| :--------: | :-----: | :----: |
+| 备用1 | [www.lmout3.com](http://www.lmout3.com) | [user.lmout3.com](http://user.lmout3.com) |
+| 备用2 | [www.lmout.top](http://www.lmout.top) | [user.lmout.top](http://user.lmout.top) |
+
 ### 说明
 - 永久域名：[lmout.com](http://lmout.com)，需要开启“系统代理模式”至“全局模式”访问。**（推荐）**
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
